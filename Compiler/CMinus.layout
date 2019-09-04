@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="lex.yy.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39934" topLine="1573" />
+		</Cursor>
+	</File>
+	<File name="scan.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="509" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="code.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="848" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="690" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="tiny.y.tab.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="145" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="code.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="211" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="symtab.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7511" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="tiny.y.tab.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="240" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="globals.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2167" topLine="112" />
+		</Cursor>
+	</File>
+	<File name="machine.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6226" topLine="102" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="33" />
+			<Collapse line="42" />
+			<Collapse line="64" />
+			<Collapse line="73" />
+		</Folding>
+	</File>
+	<File name="symtab.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="689" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="util.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="374" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="parse.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="484" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1947" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="util.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="548" topLine="263" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

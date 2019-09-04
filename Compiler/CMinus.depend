@@ -1,0 +1,288 @@
+# depslib dependency file v1.0
+1563978453 source:d:\tmp\cminus\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"globals.h"
+	"util.h"
+	"scan.h"
+	<stdlib.h>
+
+1563978453 d:\tmp\cminus\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tiny.y.tab.h"
+
+1563978454 d:\tmp\cminus\tiny.y.tab.h
+
+1563978454 d:\tmp\cminus\util.h
+
+1563978453 d:\tmp\cminus\scan.h
+
+1563978453 source:d:\tmp\cminus\main.cpp
+	"globals.h"
+	"util.h"
+	"parse.h"
+	"symtab.h"
+	"code.h"
+
+1513500167 d:\tmp\cminus\cppglobals.h
+	<iostream>
+
+1563978453 d:\tmp\cminus\parse.h
+
+1563978453 d:\tmp\cminus\symtab.h
+	<iostream>
+	"globals.h"
+	<set>
+	<vector>
+
+1563978453 source:d:\tmp\cminus\symtab.cpp
+	"symtab.h"
+	<vector>
+	<set>
+
+1563978454 source:d:\tmp\cminus\tiny.y.tab.c
+	"globals.h"
+	"util.h"
+	"scan.h"
+	"parse.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+
+1563978454 source:d:\tmp\cminus\util.c
+	"globals.h"
+	"util.h"
+
+1563978453 source:d:\tmp\cminus\code.cpp
+	"code.h"
+	"symtab.h"
+	<string>
+	<vector>
+	<stack>
+	<iostream>
+
+1563978453 d:\tmp\cminus\code.h
+	"globals.h"
+
+1513499387 source:e:\hnu\semester\大三上\编译原理\实验7\cminus\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"globals.h"
+	"util.h"
+	"scan.h"
+	<stdlib.h>
+
+1546159127 e:\hnu\semester\大三上\编译原理\实验7\cminus\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tiny.y.tab.h"
+
+1513502521 e:\hnu\semester\大三上\编译原理\实验7\cminus\tiny.y.tab.h
+
+1513499427 e:\hnu\semester\大三上\编译原理\实验7\cminus\util.h
+
+1513499715 e:\hnu\semester\大三上\编译原理\实验7\cminus\scan.h
+
+1546180212 source:e:\hnu\semester\大三上\编译原理\实验7\cminus\symtab.cpp
+	"symtab.h"
+	<vector>
+	<set>
+
+1546179649 e:\hnu\semester\大三上\编译原理\实验7\cminus\symtab.h
+	<iostream>
+	"globals.h"
+	<set>
+	<vector>
+
+1513502533 source:e:\hnu\semester\大三上\编译原理\实验7\cminus\tiny.y.tab.c
+	"globals.h"
+	"util.h"
+	"scan.h"
+	"parse.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+
+901951304 e:\hnu\semester\大三上\编译原理\实验7\cminus\parse.h
+
+1546174618 source:e:\hnu\semester\大三上\编译原理\实验7\cminus\util.c
+	"globals.h"
+	"util.h"
+
+1561122944 source:e:\hnu\semester\夏季小学期2019\cminus\code.cpp
+	"code.h"
+	"symtab.h"
+	<string>
+	<vector>
+	<iostream>
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\code.h
+	"globals.h"
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tiny.y.tab.h"
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\tiny.y.tab.h
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\symtab.h
+	<iostream>
+	"globals.h"
+	<set>
+	<vector>
+
+1561122591 source:e:\hnu\semester\夏季小学期2019\cminus\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"globals.h"
+	"util.h"
+	"scan.h"
+	<stdlib.h>
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\util.h
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\scan.h
+
+1561123358 source:e:\hnu\semester\夏季小学期2019\cminus\main.cpp
+	"globals.h"
+	"util.h"
+	"parse.h"
+	"symtab.h"
+	"code.h"
+
+1561122591 e:\hnu\semester\夏季小学期2019\cminus\parse.h
+
+1561122591 source:e:\hnu\semester\夏季小学期2019\cminus\symtab.cpp
+	"symtab.h"
+	<vector>
+	<set>
+
+1561122591 source:e:\hnu\semester\夏季小学期2019\cminus\tiny.y.tab.c
+	"globals.h"
+	"util.h"
+	"scan.h"
+	"parse.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+
+1561122591 source:e:\hnu\semester\夏季小学期2019\cminus\util.c
+	"globals.h"
+	"util.h"
+
+1563978453 source:e:\codes\project\cminus\code.cpp
+	"code.h"
+	"symtab.h"
+	<string>
+	<vector>
+	<stack>
+	<iostream>
+
+1563978453 e:\codes\project\cminus\code.h
+	"globals.h"
+
+1563978453 e:\codes\project\cminus\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tiny.y.tab.h"
+
+1563978454 e:\codes\project\cminus\tiny.y.tab.h
+
+1563978453 e:\codes\project\cminus\symtab.h
+	<iostream>
+	"globals.h"
+	<set>
+	<vector>
+
+1563978453 source:e:\codes\project\cminus\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"globals.h"
+	"util.h"
+	"scan.h"
+	<stdlib.h>
+
+1563978454 e:\codes\project\cminus\util.h
+
+1563978453 e:\codes\project\cminus\scan.h
+
+1563978453 source:e:\codes\project\cminus\main.cpp
+	"globals.h"
+	"util.h"
+	"parse.h"
+	"symtab.h"
+	"code.h"
+
+1563978453 e:\codes\project\cminus\parse.h
+
+1563978453 source:e:\codes\project\cminus\symtab.cpp
+	"symtab.h"
+	<vector>
+	<set>
+
+1563978454 source:e:\codes\project\cminus\tiny.y.tab.c
+	"globals.h"
+	"util.h"
+	"scan.h"
+	"parse.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+
+1563978454 source:e:\codes\project\cminus\util.c
+	"globals.h"
+	"util.h"
+
+1561510123 source:e:\codes\project\cminus\pseudo.cpp
+	"code.h"
+	"symtab.h"
+	<string>
+	<vector>
+	<iostream>
+
+1566894759 source:e:\codes\project\cminus\machine.cpp
+	"code.h"
+	<cstdio>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1563978453 source:d:\tmp\cminus\machine.cpp
+	"code.h"
+	<cstdio>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+
