@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1563974773 source:e:\codes\project\cminusvm\assist.cpp
+	"assist.h"
+	<string>
+
+1562300770 e:\codes\project\cminusvm\assist.h
+	<string>
+
+1563974824 source:e:\codes\project\cminusvm\token.cpp
+	"token.h"
+	<string>
+
+1563974887 e:\codes\project\cminusvm\token.h
+	<string>
+
+1563974902 source:e:\codes\project\cminusvm\main.cpp
+	"token.h"
+	"assist.h"
+	<bits/stdc++.h>
+
+1563974773 source:e:\codes\project\cminus_vm\vm\assist.cpp
+	"assist.h"
+	<string>
+
+1562300770 e:\codes\project\cminus_vm\vm\assist.h
+	<string>
+
+1567566351 source:e:\codes\project\cminus_vm\vm\main.cpp
+	"token.h"
+	"assist.h"
+	<bits/stdc++.h>
+
+1563974887 e:\codes\project\cminus_vm\vm\token.h
+	<string>
+
+1563974824 source:e:\codes\project\cminus_vm\vm\token.cpp
+	"token.h"
+	<string>
+
